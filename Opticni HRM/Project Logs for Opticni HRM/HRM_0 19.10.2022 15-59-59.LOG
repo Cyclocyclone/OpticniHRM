@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_USB-C PD Member=D?
+Change Component Footprint: Designator=R11 Old Footprint=RES0805_1 New Footprint=R0402
+Change Component Comment : Designator=R11 Old Comment=Res2-smd New Comment=10k
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES0805_1"; UniqueID = "\AKARMFXE\NDJVIRWE" ("\AKARMFXE\NDJVIRWE")
+Added Member To Class: ClassName=U_USB-C PD Member=Component D5 5V
+Added Member To Class: ClassName=U_Display Member=Component D6 CUHS20F40
+Added Member To Class: ClassName=U_Display Member=Component D8 CUHS20F40

@@ -1,0 +1,46 @@
+Added Component: Designator=D?(WE-TVS_SOT23-5L)
+Add component (AddParameter): Name = "(Reverse) Breakdown Voltage"; Value = "6.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "(Reverse) Peak Pulse Current"; Value = "13A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "SOT23-5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ESD Clamping Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Input Capacitance"; Value = "2pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Operating Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Reverse Leakage Current"; Value = "1µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/824011?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/824011?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD Air Discharge Capability"; Value = "24kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD Contact Discharge Capability"; Value = "16kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "824011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2+1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Topshiba US2H)
+Added Component: Designator=D?(Topshiba US2H)
+Added Component: Designator=D?(Topshiba US2H)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetC8_1 Pin=D?-1
+Added Pin To Net: NetName=VGH Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=NetC8_1 Pin=D?-2
+Added Pin To Net: NetName=NetC8_2 Pin=D?-2
+Added Pin To Net: NetName=VGL Pin=D?-2
+Added Pin To Net: NetName=USB_N Pin=D?-4
+Added Pin To Net: NetName=VUSB Pin=D?-5
+Added Pin To Net: NetName=USB_P Pin=U3-26
+Added Net: Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=U_Display Member=Component D? CUHS20F40
+Added Member To Class: ClassName=U_Display Member=Component D? CUHS20F40
+Added Member To Class: ClassName=U_Display Member=Component D? CUHS20F40
+Added Member To Class: ClassName=U_USB-C PD Member=Component D? 5V
