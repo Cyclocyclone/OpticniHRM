@@ -1,0 +1,9 @@
+Add Component: Footprint Not Found SOT23
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Add Class Member: Failed to add class member : Component Q1 PJA3430
+Added Room: Name=U_CPU
+Added Room: Name=U_Display
+Added Room: Name=U_HRM
+Added Room: Name=U_USB-C PD

@@ -1,0 +1,37 @@
+Added Component: Designator=C29(0402_1x0.5x0.5mm)
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/885012105018.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 °C to +125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "885012105018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Oct. 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0402_1x0.5x0.5mm)
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/885012105012.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 °C to +125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "885012105012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Oct. 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VCC_FLASH Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VCC_FLASH Pin=C30-2
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Added Member To Class: ClassName=U_CPU Member=Component C29 25V, 100nF
+Added Member To Class: ClassName=U_CPU Member=Component C30 10V, 1uF
+Add Class Member: Failed to add class member : Component Q1 PJA3430

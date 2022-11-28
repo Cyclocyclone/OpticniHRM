@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=J1-A1
+Removed Pin From Net: NetName=VUSB Pin=J1-A4
+Removed Pin From Net: NetName=NetJ1_A5 Pin=J1-A5
+Removed Pin From Net: NetName=NetJ1_A6 Pin=J1-A6
+Removed Pin From Net: NetName=USB_N Pin=J1-A7
+Removed Pin From Net: NetName=VUSB Pin=J1-A9
+Removed Pin From Net: NetName=GND Pin=J1-A12
+Removed Pin From Net: NetName=GND Pin=J1-B1
+Removed Pin From Net: NetName=VUSB Pin=J1-B4
+Removed Pin From Net: NetName=NetJ1_A6 Pin=J1-B6
+Removed Pin From Net: NetName=USB_N Pin=J1-B7
+Removed Pin From Net: NetName=VUSB Pin=J1-B9
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=J1-Shell
+Removed Member From Class: ClassName=U_USB-C PD Member=J1
+Added Component: Designator=C29(USB4105-15-A-120)
+Add Component: Footprint Not Found SOT23
+Added Pin To Net: NetName=GND Pin=C29-A1
+Added Pin To Net: NetName=VUSB Pin=C29-A4
+Added Pin To Net: NetName=NetJ1_A6 Pin=C29-A5
+Added Pin To Net: NetName=USB_P Pin=C29-A6
+Added Pin To Net: NetName=USB_N Pin=C29-A7
+Added Pin To Net: NetName=VUSB Pin=C29-A9
+Added Pin To Net: NetName=GND Pin=C29-A12
+Added Pin To Net: NetName=NetJ1_A5 Pin=C29-B5
+Added Pin To Net: NetName=USB_P Pin=C29-B6
+Added Pin To Net: NetName=USB_N Pin=C29-B7
+Added Pin To Net: NetName=GND Pin=C29-Shield
+Added Pin To Net: NetName=GND Pin=C29-Shield
+Added Pin To Net: NetName=GND Pin=C29-Shield
+Added Pin To Net: NetName=GND Pin=C29-Shield
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Added Pin To Net: NetName=NetJ1_A6 Pin=R2-2
+Change Net Name : Old Net Name=NetJ1_A5 New Net Name=NetC29_B5
+Change Net Name : Old Net Name=NetJ1_A6 New Net Name=NetC29_A5
+Added Member To Class: ClassName=U_USB-C PD Member=Component C29 USB C connector
+Add Class Member: Failed to add class member : Component Q1 PJA3430

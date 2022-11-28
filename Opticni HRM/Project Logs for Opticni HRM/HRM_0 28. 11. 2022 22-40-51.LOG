@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found SOT23
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Change Net Name : Old Net Name=NetR13_1 New Net Name=SDA_HRM
+Change Net Name : Old Net Name=NetR14_1 New Net Name=SCL_HRM
+Add Class Member: Failed to add class member : Component Q1 PJA3430

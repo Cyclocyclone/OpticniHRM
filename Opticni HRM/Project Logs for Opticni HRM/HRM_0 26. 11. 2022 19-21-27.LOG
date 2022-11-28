@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC29_B5 Pin=R1-2
+Removed Pin From Net: NetName=NetC29_A5 Pin=R2-2
+Change Component Comment : Designator=R12 Old Comment=0R TBD New Comment=Value
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R4 Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R11 Old Comment=10k New Comment=Value
+Change Component Comment : Designator=R13 Old Comment=10k New Comment=Value
+Change Component Comment : Designator=R14 Old Comment=10k New Comment=Value
+Added Component: Designator=J1(USB4105-15-A-120)
+Add Component: Footprint Not Found SOT23
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=VUSB Pin=J1-A4
+Added Pin To Net: NetName=NetC29_B5 Pin=J1-A5
+Added Pin To Net: NetName=USB_P Pin=J1-A6
+Added Pin To Net: NetName=USB_N Pin=J1-A7
+Added Pin To Net: NetName=VUSB Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=NetC29_A5 Pin=J1-B5
+Added Pin To Net: NetName=USB_P Pin=J1-B6
+Added Pin To Net: NetName=USB_N Pin=J1-B7
+Added Pin To Net: NetName=GND Pin=J1-Shield
+Added Pin To Net: NetName=GND Pin=J1-Shield
+Added Pin To Net: NetName=GND Pin=J1-Shield
+Added Pin To Net: NetName=GND Pin=J1-Shield
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Added Pin To Net: NetName=NetC29_A5 Pin=R1-2
+Added Pin To Net: NetName=NetC29_B5 Pin=R2-2
+Change Net Name : Old Net Name=NetC29_A5 New Net Name=NetJ1_B5
+Change Net Name : Old Net Name=NetC29_B5 New Net Name=NetJ1_A5
+Added Member To Class: ClassName=U_USB-C PD Member=Component J1 USB C connector
+Add Class Member: Failed to add class member : Component Q1 PJA3430

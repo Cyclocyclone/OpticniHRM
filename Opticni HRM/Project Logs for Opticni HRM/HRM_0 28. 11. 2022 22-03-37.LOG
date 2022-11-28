@@ -1,0 +1,178 @@
+Removed Pin From Net: NetName=NetC24_2 Pin=C24-2
+Removed Pin From Net: NetName=NetC24_2 Pin=L4-2
+Removed Pin From Net: NetName=NetDS1_8 Pin=U3-9
+Removed Pin From Net: NetName=NetDS1_12 Pin=U3-14
+Removed Pin From Net: NetName=NetDS1_13 Pin=U3-15
+Change Component Comment : Designator=R11 Old Comment=Value New Comment=10k
+Change Component Comment : Designator=R13 Old Comment=Value New Comment=10k
+Change Component Comment : Designator=R14 Old Comment=Value New Comment=10k
+Change Component Comment : Designator=R3 Old Comment=Value New Comment=220R
+Change Component Comment : Designator=R4 Old Comment=Value New Comment=220R
+Change Component Comment : Designator=R12 Old Comment=Value New Comment=TBD
+Added Component: Designator=AE1(7488960245)
+Add component (AddParameter): Name = "Category"; Value = "Antennas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/7488960245?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/7488960245?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "2400-2500MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "7488960245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-MCA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bands"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Gain"; Value = "3dBi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VSWR"; Value = "2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 0402_1x0.5x0.5mm
+Add Component: Footprint Not Found 0402_1x0.5x0.5mm
+Added Component: Designator=D9(WL-SMCW_0603_150060xx75003)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "InGaN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150060GS75003?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150060GS75003?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "1600mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060GS75003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMCW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "100°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "515nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=R15(R0402)
+Added Component: Designator=R16(R0402)
+Added Component: Designator=R17(R0402)
+Added Component: Designator=R18(R0402)
+Added Component: Designator=R19(R0402)
+Added Component: Designator=R20(R0402)
+Added Component: Designator=SW1(WS-TASV_L3W2.6H1.4_4351x10148xx)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/435151014845?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/435151014845?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "435151014845"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TASV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "450g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC8 Wide dialog semi)
+Added Pin To Net: NetName=GND Pin=AE1-2
+Added Pin To Net: NetName=GND Pin=AE1-3
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Added Pin To Net: NetName=3V3 Pin=Q2-2
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=NetR4_2 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=SW1-A1
+Added Pin To Net: NetName=GND Pin=SW1-A2
+Added Pin To Net: NetName=GND Pin=SW1-G1
+Added Pin To Net: NetName=GND Pin=SW1-G2
+Added Pin To Net: NetName=NetDS1_12 Pin=U3-8
+Added Pin To Net: NetName=NetDS1_13 Pin=U3-9
+Added Pin To Net: NetName=NetC24_2 Pin=U3-18
+Added Pin To Net: NetName=NetDS1_8 Pin=U3-27
+Added Pin To Net: NetName=NetC24_2 Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Change Net Name : Old Net Name=NetC24_2 New Net Name=VCC_FLASH
+Added Pin To Net: NetName=NetAE1_1 Pin=AE1-1
+Added Pin To Net: NetName=NetAE1_1 Pin=C24-2
+Added Pin To Net: NetName=NetAE1_1 Pin=L4-2
+Added Net: Name=NetAE1_1
+Added Pin To Net: NetName=NetD9_K Pin=D9-K
+Added Pin To Net: NetName=NetD9_K Pin=R20-2
+Added Net: Name=NetD9_K
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R16-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R17-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U3-6
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=SW1-B2
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U3-28
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetSW1_B1 Pin=SW1-B1
+Added Pin To Net: NetName=NetSW1_B1 Pin=U3-15
+Added Net: Name=NetSW1_B1
+Added Pin To Net: NetName=NetU3_19 Pin=U3-19
+Added Pin To Net: NetName=NetU3_19 Pin=U4-6
+Added Net: Name=NetU3_19
+Added Pin To Net: NetName=NetU3_20 Pin=U3-20
+Added Pin To Net: NetName=NetU3_20 Pin=U4-5
+Added Net: Name=NetU3_20
+Added Pin To Net: NetName=NetU3_21 Pin=U3-21
+Added Pin To Net: NetName=NetU3_21 Pin=U4-1
+Added Net: Name=NetU3_21
+Added Pin To Net: NetName=NetU3_22 Pin=U3-22
+Added Pin To Net: NetName=NetU3_22 Pin=U4-2
+Added Net: Name=NetU3_22
+Added Pin To Net: NetName=NetU3_23 Pin=U3-23
+Added Pin To Net: NetName=NetU3_23 Pin=U4-3
+Added Net: Name=NetU3_23
+Added Pin To Net: NetName=NetU3_24 Pin=U3-24
+Added Pin To Net: NetName=NetU3_24 Pin=U4-4
+Added Net: Name=NetU3_24
+Added Pin To Net: NetName=USB_Connected Pin=R17-1
+Added Pin To Net: NetName=USB_Connected Pin=R18-2
+Added Pin To Net: NetName=USB_Connected Pin=U3-14
+Added Net: Name=USB_Connected
+Added Member To Class: ClassName=U_CPU Member=Component AE1 7488960245
+Add Class Member: Failed to add class member : Component C29 25V, 100nF
+Add Class Member: Failed to add class member : Component C30 10V, 1uF
+Added Member To Class: ClassName=U_CPU Member=Component D9 Green, 3.2V, 140°
+Add Class Member: Failed to add class member : Component Q1 PJA3430
+Added Member To Class: ClassName=U_CPU Member=Component Q2 BC857
+Added Member To Class: ClassName=U_CPU Member=Component R15 10k
+Added Member To Class: ClassName=U_CPU Member=Component R16 1k
+Added Member To Class: ClassName=U_CPU Member=Component R17 4k7
+Added Member To Class: ClassName=U_CPU Member=Component R18 22k
+Added Member To Class: ClassName=U_CPU Member=Component R19 10k
+Added Member To Class: ClassName=U_CPU Member=Component R20 220R
+Added Member To Class: ClassName=U_CPU Member=Component SW1 435151014845
+Added Member To Class: ClassName=U_CPU Member=Component U4 AT25SF041B
