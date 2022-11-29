@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USB_P Pin=D5-3
+Removed Pin From Net: NetName=USB_N Pin=D5-4
+Add Component: Footprint Not Found SOT23
+Added Pin To Net: NetName=USB_N Pin=D5-3
+Added Pin To Net: NetName=USB_P Pin=D5-4
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Add Class Member: Failed to add class member : Component Q1 PJA3430

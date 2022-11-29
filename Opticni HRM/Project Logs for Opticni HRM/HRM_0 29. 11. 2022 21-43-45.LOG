@@ -1,0 +1,22 @@
+Change Component Comment : Designator=DS1 Old Comment=1.54” TFT EPD Panel  New Comment=1.54” TFT EPD Panel
+Add Component: Footprint Not Found SOT23
+Added Component: Designator=U?(DHC16 Linear)
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Added Pin To Net: NetName=VUSB Pin=U?-1
+Added Pin To Net: NetName=NetR7_2 Pin=U?-2
+Added Pin To Net: NetName=NetR9_2 Pin=U?-3
+Added Pin To Net: NetName=NetR3_2 Pin=U?-4
+Added Pin To Net: NetName=NetR4_2 Pin=U?-5
+Added Pin To Net: NetName=NetC3_1 Pin=U?-6
+Added Pin To Net: NetName=VBAT Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetL1_2 Pin=U?-10
+Added Pin To Net: NetName=VBAT Pin=U?-11
+Added Pin To Net: NetName=NetR8_2 Pin=U?-14
+Added Pin To Net: NetName=VBAT Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-17
+Add Class Member: Failed to add class member : Component Q1 PJA3430
+Added Member To Class: ClassName=U_USB-C PD Member=Component U? LTC3550
