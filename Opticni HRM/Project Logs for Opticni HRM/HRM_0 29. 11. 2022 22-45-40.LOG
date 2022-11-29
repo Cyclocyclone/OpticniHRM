@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetDS1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetDS1_3 Pin=Q1-2
+Added Pin To Net: NetName=NetC8_2 Pin=Q1-3
+Added Room: Name=U_CPU
+Added Room: Name=U_Display
+Added Room: Name=U_HRM
+Added Room: Name=U_USB-C PD
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1.5mm

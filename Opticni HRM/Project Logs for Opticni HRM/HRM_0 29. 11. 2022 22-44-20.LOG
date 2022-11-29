@@ -1,0 +1,5 @@
+Added Component: Designator=Q1(SOT23)
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Added Member To Class: ClassName=U_Display Member=Component Q1 PJA3430
