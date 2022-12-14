@@ -10,4 +10,4 @@ From  : Project [Opticni HRM.PrjPcb]
 Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 21:04:37 On 11. 12. 2022
+Finished Output Generation At 23:20:47 On 13. 12. 2022
