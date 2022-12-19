@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: HRM_0.1.PcbDoc   13. 12. 2022  23:20:46
+NCDrill File Report For: HRM_0.1.PcbDoc   15. 12. 2022  14:09:43
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,11 +8,11 @@ ASCII SlotHoles File : HRM_0.1-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             156       PTH        561.21mm (22.09inch)
+T1      0.3mm (12mil)                                             Round             158       PTH        579.82mm (22.83inch)
 T2      0.6mm (24mil)                                             Slot              4         PTH        38.47mm (1.51inch)
 T3      0.762mm (30mil)                                           Round             2         PTH        2.54mm (0.10inch)
 T4      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              164
+Totals                                                                              166
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
