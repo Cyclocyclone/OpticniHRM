@@ -25,7 +25,7 @@ while(1):
         buff = [current_time, s]
         print(buff)
 
-        with open('HRMroka.csv', 'a') as f_object:
+        with open('HRMzapestje1.csv', 'a') as f_object:
             writer_object = writer(f_object)
             writer_object.writerow(buff)
             f_object.close()
