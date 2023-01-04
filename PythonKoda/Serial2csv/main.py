@@ -23,8 +23,9 @@ while(1):
         now = datetime.now()
         current_time = now.strftime("%H:%M:%S")
         buff = [current_time, s]
+        print(buff)
 
-        with open('datalog.csv', 'a') as f_object:
+        with open('HRMLog.csv', 'a') as f_object:
             writer_object = writer(f_object)
             writer_object.writerow(buff)
             f_object.close()
